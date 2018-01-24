@@ -1,0 +1,10 @@
+曼哈顿距离： 绝对值差的和
+欧式距离：差值的平方和
+
+http://python.jobbole.com/83563/
+http://python.jobbole.com/86872/
+http://python.jobbole.com/77821/
+http://python.jobbole.com/88921/
+http://python.jobbole.com/88915/
+
+

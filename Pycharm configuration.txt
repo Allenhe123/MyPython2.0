@@ -1,0 +1,5 @@
+Code Style -- Inspections -- Python 全部uncheck
+
+Editor -- Color Scheme -- WarmNeon
+
+Editor -- Font -- Consolas, 16
